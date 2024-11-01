@@ -1,3 +1,5 @@
+import 'devextreme/dist/css/dx.light.css';  // Add this line to 'src/index.js'
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
